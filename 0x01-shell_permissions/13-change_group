@@ -1,0 +1,3 @@
+#!/bin/bash
+chgrp school hello
+100-change_owner_and_group
